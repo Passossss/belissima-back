@@ -1,0 +1,6 @@
+@belissima_back_HostAddress = http://localhost:5197
+
+GET {{belissima_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
