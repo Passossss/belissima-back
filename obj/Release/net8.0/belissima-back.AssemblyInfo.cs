@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("belissima-back")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fb20d240c3319bec5fb55ea4af92a7179b7d0c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47486204996a600c0dba0db134e9a277267d2ac9")]
 [assembly: System.Reflection.AssemblyProductAttribute("belissima-back")]
 [assembly: System.Reflection.AssemblyTitleAttribute("belissima-back")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
