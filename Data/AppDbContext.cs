@@ -1,7 +1,12 @@
-﻿using System;
+﻿using belissima_back.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 
-public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
+namespace belissima_back;
+
+public class AppDbContext : DbContext
 {
+    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+
     public DbSet<Revendedora> Revendedoras { get; set; }
 }
