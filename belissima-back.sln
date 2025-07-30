@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "belissima-back", "belissima-back.csproj", "{8DA42611-8CE9-46B0-1A05-0B1F189ADAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA42611-8CE9-46B0-1A05-0B1F189ADAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA42611-8CE9-46B0-1A05-0B1F189ADAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA42611-8CE9-46B0-1A05-0B1F189ADAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA42611-8CE9-46B0-1A05-0B1F189ADAED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B0D9915-F90F-414B-8DE6-9508C0AFEFDA}
+	EndGlobalSection
+EndGlobal
