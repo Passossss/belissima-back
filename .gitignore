@@ -1,1 +1,4 @@
+# Pastas a ignorar
 .vs/
+bin/
+obj/
