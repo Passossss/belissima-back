@@ -1,0 +1,8 @@
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\belissima-back.csproj.AssemblyReference.cache
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\belissima-back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\belissima-back.AssemblyInfoInputs.cache
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\belissima-back.AssemblyInfo.cs
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\belissima-back.csproj.CoreCompileInputs.cache
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\belissima-back.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\belissima-back.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\belissima-back.sourcelink.json
