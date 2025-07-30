@@ -19,7 +19,7 @@ Gerenciamento de Revendedoras
 ## 📦 Estrutura do Projeto
 
 A estrutura do projeto está organizada de forma lógica para facilitar o desenvolvimento e a manutenção:
-
+```
 ├── Data/              # Contexto do Banco de Dados e Migrações
 ├── Migrations/        # Migrações do Entity Framework Core
 ├── Models/            # Classes de Modelo (Entidades do Banco de Dados)
@@ -32,8 +32,7 @@ A estrutura do projeto está organizada de forma lógica para facilitar o desenv
 ├── appsettings.Development.json # Configurações para ambiente de desenvolvimento
 ├── belissima-back.csproj # Arquivo de projeto C#
 ├── belissima-back.sln # Arquivo de solução do Visual Studio
-
-
+```
 ## 🛠️ Configuração e Execução (Desenvolvimento)
 
 Siga os passos abaixo para configurar e rodar a Belíssima API em seu ambiente de desenvolvimento:
