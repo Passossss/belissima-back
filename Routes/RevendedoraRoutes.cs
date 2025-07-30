@@ -29,6 +29,47 @@ namespace belissima_back.Routes
                 return revendedora;
             });
 
+            group.MapPut("/{id}", async (Guid id, Revendedora revendedoraAtualizada, AppDbContext db) =>
+            {
+                if (id != revendedoraAtualizada.Id)
+                {
+                    return Results.BadRequest("O ID da rota não corresponde ao ID do objeto.");
+                }
+
+                var revendedoraExistente = await db.Revendedoras.FindAsync(id);
+
+                if (revendedoraExistente is null)
+                {
+                    return Results.NotFound("Revendedora não encontrada.");
+                }
+
+                revendedoraExistente.Nome = revendedoraAtualizada.Nome;
+                revendedoraExistente.Email = revendedoraAtualizada.Email;
+                revendedoraExistente.Estado = revendedoraAtualizada.Estado;
+                revendedoraExistente.Cidade = revendedoraAtualizada.Cidade;
+                revendedoraExistente.Numero = revendedoraAtualizada.Numero;
+
+                await db.SaveChangesAsync();
+
+                return Results.NoContent();
+            });
+
+            group.MapDelete("/{id}", async (Guid id, AppDbContext db) =>
+            {
+                var revendedora = await db.Revendedoras.FindAsync(id);
+
+                if (revendedora is null)
+                {
+                    return Results.NotFound("Revendedora não encontrada.");
+                }
+
+                db.Revendedoras.Remove(revendedora);
+
+                await db.SaveChangesAsync();
+
+                return Results.NoContent();
+            });
+
             return app;
         }
     }
