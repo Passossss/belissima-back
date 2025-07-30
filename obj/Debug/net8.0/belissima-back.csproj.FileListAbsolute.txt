@@ -160,7 +160,6 @@ C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\n
 C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\belissim.07A19ABE.Up2Date
 C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\belissima-back.dll
 C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\refint\belissima-back.dll
@@ -172,3 +171,4 @@ C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\bin\Debug\n
 C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\belissima-back\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
