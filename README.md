@@ -6,7 +6,7 @@ Desenvolvida com **.NET 8**, esta API é construída para ser performática, esc
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Backend**: .NET 8
+* **Backend**: .NET 9
 * **Banco de Dados**: `SQL Server`
 * **ORM**: Entity Framework Core
 * **Documentação da API**: Swagger/OpenAPI
@@ -38,7 +38,7 @@ A estrutura do projeto está organizada de forma lógica para facilitar o desenv
 Siga os passos abaixo para configurar e rodar a Belíssima API em seu ambiente de desenvolvimento:
 
 1.  **Pré-requisitos:**
-    * .NET SDK 8.0 ou superior (Verifique com `dotnet --version`)
+    * .NET SDK 9.0 ou superior (Verifique com `dotnet --version`)
     * Um editor de código como Visual Studio 2022, Visual Studio Code ou JetBrains Rider.
     * (Seu Banco de Dados, ex: SQL Server LocalDB ou instância)
 
