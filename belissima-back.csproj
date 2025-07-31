@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>belissima_back</RootNamespace>
+    <UserSecretsId>227d7d71-07bc-4407-b4d0-037e332207a7</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("227d7d71-07bc-4407-b4d0-037e332207a7")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("belissima-back")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fec65e436b597d803db1f9e4917b841760314d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a5b918fe3dfffb2659047faac5287322339ebb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("belissima-back")]
 [assembly: System.Reflection.AssemblyTitleAttribute("belissima-back")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
